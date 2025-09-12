@@ -63,7 +63,7 @@ I understood the  ubuntu command lines and:
 ![image](https://github.com/devikakanekalmutt-collab/level--0/blob/main/WhatsApp%20Image%202025-09-10%20at%2012.39.22%20AM.jpeg?raw=true)
 # TASK 11: 555 TIMER IC
 The 555 Timer IC is an integrated circuit used in a variety of timer, delay, pulse generation and oscillator applications. Using the 555 Timer IC in Astable mode, a circuit was designed with resistors in 2:1 ratio along with capacitors to get a duty cycle of 58.7%. The circuit and the waveform that was displayed in the oscilloscope is given below
-![image](image-4.png)
+![image](https://github.com/devikakanekalmutt-collab/level--0/blob/main/555%20timer%20.jpeg?raw=true)
 # Task 12:  Active Participation:
  I participated in KAGADA Poster Presentation which a part of  the prestigious Annual National-Level Technical Student Conference organized by IEEE UVCE (University Visvesvaraya College of Engineering).
  ![alt text](https://github.com/devikakanekalmutt-collab/level--0/blob/main/participation%20.jpeg?raw=true)
